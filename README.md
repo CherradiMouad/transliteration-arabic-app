@@ -19,5 +19,5 @@ https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe
 
 ## How to Use?
 
-From file « Transcripteur» run main.py
+run main.py
 
