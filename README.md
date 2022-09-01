@@ -7,4 +7,8 @@
 
 ![Capture](https://user-images.githubusercontent.com/100093143/187805530-3d1edcf4-f139-4258-830b-ba84803d9bd6.PNG)
 
+## Tech/Framework used
+* tkinter-Designer
+* tkinter
+
 
